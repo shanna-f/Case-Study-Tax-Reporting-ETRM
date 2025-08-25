@@ -20,7 +20,6 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 
 ---
 
-## 📍 Part 1: Problem Statement & Current State Analysis  
 ## 📍 Part 1: Problem Statement & Current State Analysis
 
 For this case study (fictional, for portfolio purposes), I imagined working with a large oil & gas products trading company struggling with **indirect tax reporting** in their **Energy Trading and Risk Management (ETRM) system**.
@@ -44,16 +43,39 @@ This created major risks of delays, errors, inconsistent tax application, and co
 
 > 👉 As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
 
-
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
 
 ## 🎯 Part 2: Goals Alignment & Success Measures  
-- Automate indirect tax reporting  
-- Reduce manual reconciliation efforts  
-- Ensure compliance with tax authorities  
-- Improve accuracy and timeliness of reports  
+## 📍 Part 2: Goals, Alignment & Success Metrics
+
+With the problems clearly defined, I moved into setting goals, alignment, and success metrics. This step ensured the project had both operational and strategic value.
+
+### 🎯 Key Goals
+
+1. Automatically extract and consolidate **90% of tax-relevant data** into centralized reports, reducing manual prep time from 2 days to under 2 hours per month within 3 months.
+2. Enforce **100% validation rules** for tax-relevant fields at time of trade or shipment entry, targeting a 50% reduction in rework due to data issues within 3 months.
+3. Align **100% of master data** used in tax logic across trade and logistics modules, with a quarterly governance review process in place within 3 months.
+4. Implement a **rules engine** allowing tax analysts to update 80% of logic without IT, cutting change turnaround time from 2 weeks to 2 days, within 2 months.
+5. Ensure that **100% of tax rule changes and override actions** are logged with user-level traceability and available for export on demand, within 2 months.
+
+### 🚀 Strategic Alignment
+- **Efficiency:** Automate manual reporting  
+- **Compliance:** Standardize & track audits  
+- **Agility:** Let users manage tax rules  
+- **Data Integrity:** Align master data  
+- **Responsiveness:** Validate in real time  
+
+### 📊 Sample KPIs
+- Prep time reduced from 16 to <2 hours/month  
+- 90%+ reports auto-generated  
+- 50% fewer errors in tax reports  
+- 100% validation of tax-relevant fields  
+- 100% audit traceability  
+- 80% of rule changes completed without IT  
+
+> 👉 Defining clear KPIs and alignment gave this project accountability and purpose.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
