@@ -11,7 +11,7 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 3. [Proposed Solution](#-part-3-proposed-solution--future-state)  
 4. [Stakeholder Analysis](#-part-4-stakeholder-analysis)  
 5. [Risk, Cost & Benefit](#-part-5-risk-cost-benefit--financial-analysis)
-6. [Governance, Implementation & Transition Planning](#-part-6-governance-implementation--transition-planning)
+6. [Governance, Implementation & Transition Planning](#part-6-governance-implementation--transition-planning)
 7. [Recommendations & Executive Summary](#-part-7-recommendations--executive-summary)
 8. [Tools & Methods](#-part-8-tools--methods-used)  
 9. [Documents Created](#-part-9-key-documents-created)  
