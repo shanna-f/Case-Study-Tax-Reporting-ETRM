@@ -157,7 +157,7 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ---
 
-## 📊 Part 6: Governance, Implmentation & Transition Planning  
+## 📊 Part 6: Governance, Implementation & Transition Planning  
 
 placeholder
 
