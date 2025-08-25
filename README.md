@@ -16,7 +16,6 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 8. [Outcomes](#-part-8-outcomes)  
 9. [Learnings & Reflection](#-part-9-key-learnings--reflection)  
 10. [Next Steps](#-part-10-next-steps)  
-11. [Project Files](#-part-11-view--download-project-files)  
 
 ---
 
@@ -167,10 +166,10 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ---
 
-## 📑 Part 7: Key Documents Created  
-- Business Case  
-- Process Flows
-- Context Models  
+## 📑 Part 7: Key Deliverables Created  
+- [Business Case (PDF)](your-link)  
+- [Process Flows (PDF)](your-link)
+- [Content Models (PDF)](your-link)  
 
 🔗 [Back to TOC](#-table-of-contents)  
 
@@ -206,14 +205,5 @@ The project delivered:
 
 ## 🔜 Part 10: Next Steps  
 Next, I will be looking at requirements and creating the Business Requirements Document.
-
-🔗 [Back to TOC](#-table-of-contents)  
-
----
-
-## 📂 Part 11: View & Download Project Files  
-- [Business Case (PDF)](your-link)  
-- [Process Flows (PDF)](your-link)
-- [Content Models (PDF)](your-link)  
 
 🔗 [Back to TOC](#-table-of-contents)  
