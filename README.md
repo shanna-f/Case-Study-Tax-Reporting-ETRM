@@ -126,9 +126,31 @@ No solution succeeds without engaged stakeholders. I created:
 ---
 
 ## 📊 Part 5: Risk, Cost-Benefit & Financial Analysis  
-- **Risks**: Integration complexity, data quality issues  
-- **Benefits**: Reduced compliance risks, time savings, audit readiness  
-- **Financials**: Cost of automation offset by resource savings  
+
+Then I built the business case by analyzing risks, costs, and benefits.
+
+📒 **Here’s what I worked on:**
+- Identified risks & mitigation plans
+- Outlined tangible + intangible benefits
+- Estimated costs for implementation
+- Pulled it all together in a financial breakdown
+
+### Risks & Mitigations
+- **Regulatory misalignment** → early SME and auditor involvement  
+- **Data integration issues** → phased rollout with validation checks  
+- **Over-reliance on few SMEs** → knowledge-sharing workshops  
+
+### Benefits (Tangible + Intangible)
+- Faster reporting turnaround (time savings)  
+- Reduced tax filing errors (compliance confidence)  
+- Improved scalability with a rules engine  
+- Greater audit readiness and transparency  
+
+### Financial Analysis
+- Estimated costs for implementation (ETRM customization, Tax Engine licensing, testing, change management)  
+- ROI justification through time saved, reduced rework, and audit efficiency  
+
+✨ **Key Insight:** The business case only became real when backed with numbers and trade-offs. Benefits weren’t just financial—time savings, error reduction, and reduced compliance risk were equally valuable.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
