@@ -42,6 +42,8 @@ A high-level process flow revealed heavy reliance on:
 
 This created major risks of delays, errors, inconsistent tax application, and costly compliance gaps.
 
+<img width="1503" height="942" alt="image" src="https://github.com/user-attachments/assets/b9113dd8-9159-4c6d-89df-5557e4289461" />
+
 ✨ As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
 
 🔗 [Back to TOC](#-table-of-contents)  
@@ -100,6 +102,8 @@ The next step was to translate strategy into tangible improvements.
 - Improved data quality, standardization, and traceability  
 
 *(Mention scope)*
+
+<img width="1507" height="929" alt="image" src="https://github.com/user-attachments/assets/696a7be4-5159-4181-98c2-50a589c8189c" />
 
 ✨ This stage clarified where improvements happen and how success would be measured.
 
