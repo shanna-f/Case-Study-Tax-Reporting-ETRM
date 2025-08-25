@@ -1,5 +1,3 @@
-# ETRM
-A project about &lt;something>
 # 💼 Business Analyst Case Study: Indirect Tax Reporting with ETRM  
 
 A **fictional case study project** (for portfolio purposes) where I worked on improving **indirect tax reporting** in an **Energy Trading and Risk Management (ETRM) system** for a large oil & gas trading company.  
@@ -8,17 +6,17 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 
 ## 📑 Table of Contents  
 
-1. [📍 Problem Statement & Current State](#-part-1-problem-statement--current-state-analysis)  
-2. [🎯 Goals & Success Measures](#-part-2-goals-alignment--success-measures)  
-3. [💡 Proposed Solution](#-part-3-proposed-solution--future-state)  
-4. [🤝 Stakeholder Analysis](#-part-4-stakeholder-analysis)  
-5. [📊 Risk, Cost & Benefit](#-part-5-risk-cost-benefit--financial-analysis)  
-6. [🛠️ Tools & Methods](#-part-6-tools--methods-used)  
-7. [📑 Documents Created](#-part-7-key-documents-created)  
-8. [✅ Outcomes](#-part-8-outcomes)  
-9. [📚 Learnings & Reflection](#-part-9-key-learnings--reflection)  
-10. [🔜 Next Steps](#-part-10-next-steps)  
-11. [📂 Project Files](#-part-11-view--download-project-files)  
+1. [Problem Statement & Current State](#-part-1-problem-statement--current-state-analysis)  
+2. [Goals & Success Measures](#-part-2-goals-alignment--success-measures)  
+3. [Proposed Solution](#-part-3-proposed-solution--future-state)  
+4. [Stakeholder Analysis](#-part-4-stakeholder-analysis)  
+5. [Risk, Cost & Benefit](#-part-5-risk-cost-benefit--financial-analysis)  
+6. [Tools & Methods](#-part-6-tools--methods-used)  
+7. [Documents Created](#-part-7-key-documents-created)  
+8. [Outcomes](#-part-8-outcomes)  
+9. [Learnings & Reflection](#-part-9-key-learnings--reflection)  
+10. [Next Steps](#-part-10-next-steps)  
+11. [Project Files](#-part-11-view--download-project-files)  
 
 ---
 
