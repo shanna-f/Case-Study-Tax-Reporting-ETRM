@@ -157,8 +157,11 @@ Then I built the business case by analyzing risks, costs, and benefits.
 ---
 
 ## 🛠️ Part 6: Tools & Methods Used  
-- **Tools**: Draw.io, Lucidchart, Excel, JIRA, Confluence  
-- **Methods**: Business process modeling, stakeholder workshops, requirement elicitation, gap analysis  
+
+- **Documentation:** Word, Excel  
+- **Modeling:** Draw.io  
+- **Collaboration & Workflow:** ChatGPT  
+- **Testing & Tracking:** Jira
 
 🔗 [Back to TOC](#-table-of-contents)  
 
@@ -166,46 +169,51 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ## 📑 Part 7: Key Documents Created  
 - Business Case  
-- Business Requirements Document (BRD)  
-- Functional Specifications (FRD)  
-- Test Scenarios & Test Cases  
-- Reporting Mockups  
+- Process Flows
+- Context Models  
 
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
 
 ## ✅ Part 8: Outcomes  
-- Automated reporting reduced manual efforts by **60%**  
-- Improved compliance audit readiness  
-- Enhanced accuracy and consistency of reporting  
+
+The project delivered:
+
+- A structured problem-to-solution path (current state → goals → solution → stakeholder alignment → business case)  
+- Clear and traceable requirements aligned with business and regulatory needs  
+- Future-state process flows and mockups for audit-ready reporting  
+- Strengthened compliance posture through audit traceability and automated reporting
 
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
 
 ## 📚 Part 9: Key Learnings & Reflection  
-- Importance of aligning tax reporting needs with trading data flows  
-- Value of stakeholder workshops in clarifying complex requirements  
-- Hands-on experience building **mockups** and writing **functional specs**  
+## 📝 Key Learnings & Reflection
+
+- A well-defined problem statement sets the stage for meaningful requirements.  
+- Goals must be quantifiable and aligned to strategy.  
+- Visual modeling (flows, mockups) helps stakeholders engage early.  
+- Stakeholder analysis taught me that communication isn’t one-size-fits-all.  
+- A business case only holds weight when backed by risks, benefits, and numbers.  
+
+👉 This case study deepened my skills in bridging business needs and technical solutions within a regulatory-heavy ETRM environment.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
 
 ## 🔜 Part 10: Next Steps  
-- Extend automation to direct tax reporting  
-- Build predictive analytics for future tax exposures  
-- Train users on dashboards and reporting tools  
+- Next, I will be looking at requirements and creating the Business Requirements Document.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
 
 ## 📂 Part 11: View & Download Project Files  
-- [📄 Business Case (PDF)](your-link)  
-- [📄 BRD (PDF)](your-link)  
-- [📄 FRD (PDF)](your-link)  
-- [📊 Mockups (PNG)](your-link)  
+- [Business Case (PDF)](your-link)  
+- [Process Flows (PDF)](your-link)
+- [Content Models (PDF)](your-link)  
 
 🔗 [Back to TOC](#-table-of-contents)  
