@@ -159,8 +159,7 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 - **Documentation:** Word, Excel  
 - **Modeling:** Draw.io  
-- **Collaboration & Workflow:** ChatGPT  
-- **Testing & Tracking:** Jira
+- **Collaboration:** ChatGPT  
 
 🔗 [Back to TOC](#-table-of-contents)  
 
