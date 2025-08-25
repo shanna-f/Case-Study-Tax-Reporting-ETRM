@@ -157,25 +157,25 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ---
 
-## 🛠️ Part 6: Tools & Methods Used  
+## 📊 Part 6: Governance, Implmentation & Transition Planning  
+
+placeholder
+
+---
+
+## 📊 Part 7: Recommendations & Executive Summary  
+
+placeholder (completion of business case)
+
+---
+
+## 🛠️ Part 8: Tools & Methods Used  
 
 - **Documentation:** Word, Excel  
 - **Modeling:** Draw.io  
 - **Collaboration:** ChatGPT  
 
 🔗 [Back to TOC](#-table-of-contents)  
-
----
-
-## 📊 Part 7: Governance, Implmentation & Transition Planning  
-
-placeholder
-
----
-
-## 📊 Part 8: Recommendations & Executive Summary  
-
-placeholder (completion of business case)
 
 ---
 
