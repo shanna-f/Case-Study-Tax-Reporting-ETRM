@@ -48,7 +48,6 @@ This created major risks of delays, errors, inconsistent tax application, and co
 ---
 
 ## 🎯 Part 2: Goals Alignment & Success Measures  
-## 📍 Part 2: Goals, Alignment & Success Metrics
 
 With the problems clearly defined, I moved into setting goals, alignment, and success metrics. This step ensured the project had both operational and strategic value.
 
