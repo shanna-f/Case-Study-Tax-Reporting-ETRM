@@ -41,7 +41,7 @@ A high-level process flow revealed heavy reliance on:
 
 This created major risks of delays, errors, inconsistent tax application, and costly compliance gaps.
 
-> 👉 As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
+✨ As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
@@ -74,7 +74,7 @@ With the problems clearly defined, I moved into setting goals, alignment, and su
 - 100% audit traceability  
 - 80% of rule changes completed without IT  
 
-> 👉 Defining clear KPIs and alignment gave this project accountability and purpose.
+✨ Defining clear KPIs and alignment gave this project accountability and purpose.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
@@ -100,7 +100,7 @@ The next step was to translate strategy into tangible improvements.
 
 *(Mention scope)*
 
-> 👉 This stage clarified where improvements happen and how success would be measured.
+✨ This stage clarified where improvements happen and how success would be measured.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
@@ -198,7 +198,7 @@ The project delivered:
 - Stakeholder analysis taught me that communication isn’t one-size-fits-all.  
 - A business case only holds weight when backed by risks, benefits, and numbers.  
 
-👉 This case study deepened my skills in bridging business needs and technical solutions within a regulatory-heavy ETRM environment.
+✨ This case study deepened my skills in bridging business needs and technical solutions within a regulatory-heavy ETRM environment.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
