@@ -81,10 +81,27 @@ With the problems clearly defined, I moved into setting goals, alignment, and su
 ---
 
 ## 💡 Part 3: Proposed Solution & Future State  
-- Integrate ETRM system data with tax calculation engine  
-- Design standardized tax reporting templates  
-- Automate reconciliation workflows  
-- Provide dashboards for monitoring tax exposures  
+## 📍 Part 3: Proposed Solution & Future State
+
+The next step was to translate strategy into tangible improvements.
+
+### 💥 Approach
+- Explored different solution options  
+- Confirmed the recommended solution  
+- Built a high-level solution diagram  
+- Created a detailed process flow  
+- Defined scope: what’s in now vs. future phases  
+
+### ☀️ Proposed Solution Highlights
+- Centralized, low-code Tax Engine integrated with ETRM  
+- Real-time trade, logistics, invoice validation  
+- Automated audit logs & compliance reports  
+- Parallel rule updates without IT support  
+- Improved data quality, standardization, and traceability  
+
+*(Mention scope)*
+
+> 👉 This stage clarified where improvements happen and how success would be measured.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
