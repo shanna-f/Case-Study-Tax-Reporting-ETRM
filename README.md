@@ -188,7 +188,6 @@ The project delivered:
 ---
 
 ## 📚 Part 9: Key Learnings & Reflection  
-## 📝 Key Learnings & Reflection
 
 - A well-defined problem statement sets the stage for meaningful requirements.  
 - Goals must be quantifiable and aligned to strategy.  
