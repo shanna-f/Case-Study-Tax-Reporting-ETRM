@@ -13,7 +13,7 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 5. [Risk, Cost & Benefit](#-part-5-risk-cost-benefit--financial-analysis)
 6. [Governance, Implementation & Transition Planning](#-part-6-governance-implementation--transition-planning)
 7. [Recommendations & Executive Summary](#-part-7-recommendations--executive-summary)
-8. [Tools & Methods](#-part-8-tools--methods-used)  
+8. [Tools & Methods](#part-8-tools--methods-used)  
 9. [Deliverables Created](#-part-9-key-deliverables-created)  
 10. [Outcomes](#-part-10-outcomes)  
 11. [Learnings & Reflection](#-part-11-key-learnings--reflection)  
