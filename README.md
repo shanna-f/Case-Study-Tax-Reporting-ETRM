@@ -23,7 +23,29 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 ---
 
 ## 📍 Part 1: Problem Statement & Current State Analysis  
-The organization’s ETRM system lacked robust reporting for **indirect taxes** (VAT, GST). Manual spreadsheets were used to reconcile transactions, leading to inefficiencies and compliance risks.  
+## 📍 Part 1: Problem Statement & Current State Analysis
+
+For this case study (fictional, for portfolio purposes), I imagined working with a large oil & gas products trading company struggling with **indirect tax reporting** in their **Energy Trading and Risk Management (ETRM) system**.
+
+### ⚠️ Key Challenges
+- Manual data handling across modules  
+- Error-prone workflows and delays  
+- Siloed data not built for tax reporting  
+- Constantly changing tax regulations  
+- High audit and compliance risk  
+- Limited scalability, SME-dependent  
+
+### 🔹 Current State Highlights
+A high-level process flow revealed heavy reliance on:  
+- Manual ETRM data extraction  
+- Spreadsheet-based tax calculations  
+- Rule updates managed by just a few SMEs  
+- Manual report generation  
+
+This created major risks of delays, errors, inconsistent tax application, and costly compliance gaps.
+
+> 👉 As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
+
 
 🔗 [Back to TOC](#-table-of-contents)  
 
