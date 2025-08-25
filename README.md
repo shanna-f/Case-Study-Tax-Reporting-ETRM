@@ -118,7 +118,10 @@ No solution succeeds without engaged stakeholders. I created:
 - **High Influence / High Interest** → Tax Lead, Project Sponsor, Tax Architect  
 - **High Influence / Medium Interest** → IT/ETRM Owner  
 - **Medium Influence / High Interest** → Tax Analysts, Regulatory Affairs  
-- **Medium Influence / Medium Interest** → SMEs, Audit Team  
+- **Medium Influence / Medium Interest** → SMEs, Audit Team
+
+<img width="1712" height="1210" alt="image" src="https://github.com/user-attachments/assets/70f33205-c87f-449c-9e04-6e61b693ee12" />
+
 
 ✨ **Key Takeaway:** Not all stakeholders need the same level of detail. Tailoring communication avoided overload while ensuring buy-in.
 
