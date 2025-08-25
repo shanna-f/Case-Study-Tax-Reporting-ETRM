@@ -107,10 +107,19 @@ The next step was to translate strategy into tangible improvements.
 ---
 
 ## 🤝 Part 4: Stakeholder Analysis  
-- **Finance/Tax Team** – primary report consumers  
-- **Traders & Operations** – data providers  
-- **IT/ETRM Developers** – system enhancements  
-- **Compliance Officers** – regulatory oversight  
+
+No solution succeeds without engaged stakeholders. I created:
+- A Stakeholder Register
+- Influence vs. Interest Matrix
+- RACI Matrix for role clarity
+
+### Key Stakeholders
+- **High Influence / High Interest** → Tax Lead, Project Sponsor, Tax Architect  
+- **High Influence / Medium Interest** → IT/ETRM Owner  
+- **Medium Influence / High Interest** → Tax Analysts, Regulatory Affairs  
+- **Medium Influence / Medium Interest** → SMEs, Audit Team  
+
+✨ **Key Takeaway:** Not all stakeholders need the same level of detail. Tailoring communication avoided overload while ensuring buy-in.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
