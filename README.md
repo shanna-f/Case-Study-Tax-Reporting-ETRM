@@ -10,12 +10,14 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 2. [Goals & Success Measures](#-part-2-goals-alignment--success-measures)  
 3. [Proposed Solution](#-part-3-proposed-solution--future-state)  
 4. [Stakeholder Analysis](#-part-4-stakeholder-analysis)  
-5. [Risk, Cost & Benefit](#-part-5-risk-cost-benefit--financial-analysis)  
-6. [Tools & Methods](#-part-6-tools--methods-used)  
-7. [Documents Created](#-part-7-key-documents-created)  
-8. [Outcomes](#-part-8-outcomes)  
-9. [Learnings & Reflection](#-part-9-key-learnings--reflection)  
-10. [Next Steps](#-part-10-next-steps)  
+5. [Risk, Cost & Benefit](#-part-5-risk-cost-benefit--financial-analysis)
+6. [Governance, Implementation & Transition Planning](#-part-6-governance-implementation--transition-planning)
+7. [Recommendations & Executive Summary](#-part-7-recommendations--executive-summary)
+8. [Tools & Methods](#-part-8-tools--methods-used)  
+9. [Documents Created](#-part-9-key-documents-created)  
+10. [Outcomes](#-part-10-outcomes)  
+11. [Learnings & Reflection](#-part-11-key-learnings--reflection)  
+12. [Next Steps](#-part-12-next-steps)  
 
 ---
 
@@ -165,7 +167,19 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ---
 
-## 📑 Part 7: Key Deliverables Created  
+## 📊 Part 7: Governance, Implmentation & Transition Planning  
+
+placeholder
+
+---
+
+## 📊 Part 8: Recommendations & Executive Summary  
+
+placeholder (completion of business case)
+
+---
+
+## 📑 Part 9: Key Deliverables Created  
 - [Business Case (PDF)](your-link)  
 - [Process Flows (PDF)](your-link)
 - [Content Models (PDF)](your-link)  
@@ -174,7 +188,7 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ---
 
-## ✅ Part 8: Outcomes  
+## ✅ Part 10: Outcomes  
 
 The project delivered:
 
@@ -187,7 +201,7 @@ The project delivered:
 
 ---
 
-## 📚 Part 9: Key Learnings & Reflection  
+## 📚 Part 11: Key Learnings & Reflection  
 
 - A well-defined problem statement sets the stage for meaningful requirements.  
 - Goals must be quantifiable and aligned to strategy.  
@@ -201,7 +215,7 @@ The project delivered:
 
 ---
 
-## 🔜 Part 10: Next Steps  
+## 🔜 Part 12: Next Steps  
 Next, I will be looking at requirements and creating the Business Requirements Document.
 
 🔗 [Back to TOC](#-table-of-contents)  
