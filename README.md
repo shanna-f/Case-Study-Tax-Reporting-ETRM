@@ -205,7 +205,7 @@ The project delivered:
 ---
 
 ## 🔜 Part 10: Next Steps  
-- Next, I will be looking at requirements and creating the Business Requirements Document.
+Next, I will be looking at requirements and creating the Business Requirements Document.
 
 🔗 [Back to TOC](#-table-of-contents)  
 
