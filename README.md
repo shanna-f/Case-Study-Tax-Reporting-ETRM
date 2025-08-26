@@ -220,7 +220,7 @@ placeholder completion of business case
 ---
 
 ## Part 9: Key Deliverables Created  
-- [Business Case (PDF)]([your-link](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Business%20Case.pdf))  
+- [Business Case (PDF)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Business%20Case.pdf) 
 - [Process Flows (PDF)](your-link)
 - [Content Models (PDF)](your-link)  
 
