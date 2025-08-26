@@ -167,6 +167,10 @@ Then I built the business case by analyzing risks, costs, and benefits.
 - Estimated costs for implementation (ETRM customization, Tax Engine licensing, testing, change management)  
 - ROI justification through time saved, reduced rework, and audit efficiency  
 
+<img width="960" height="483" alt="image" src="https://github.com/user-attachments/assets/70c86e4a-ea4c-48ee-ad9d-435d43a636d6" />
+
+*Figure 4: Investment & Return Summary Table*
+
 ✨ **Key Insight:** The business case only became real when backed with numbers and trade-offs. Benefits weren’t just financial. Time savings, error reduction, and reduced compliance risk were equally valuable.
 
 🔗 [Back to TOC](#-table-of-contents)  
