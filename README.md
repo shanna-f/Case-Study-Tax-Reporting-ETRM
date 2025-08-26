@@ -194,6 +194,10 @@ Next, I defined plans to ensure clear decision-making, a structured rollout, and
 - Framework for monitoring, change management, and steady-state support  
 - Assigns ownership of rule changes, monthly change control meetings, and knowledge transfer processes  
 
+<img width="1563" height="1037" alt="image" src="https://github.com/user-attachments/assets/fbdb5dc5-f6d7-453c-9ddb-9f7e6c4eb02b" />
+
+*Figure 5: Implementation Plan*
+
 ✨ **Key Insight:** Governance, implementation, and transition planning together ensure accountability, sustainability, and a clear path forward for the project
 
 
