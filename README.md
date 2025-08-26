@@ -167,6 +167,8 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ## Part 6: Governance, Implementation & Transition Planning  
 
+Next, I defined plans to ensure clear decision-making, a structured rollout, and sustainable post-go-live operations for the project.
+
 ### 🏛️ Governance Plan  
 - Defines decision-making roles, escalation paths, and progress tracking  
 - Outlines meeting cadences and accountability mechanisms  
