@@ -43,6 +43,7 @@ A high-level process flow revealed heavy reliance on:
 This created major risks of delays, errors, inconsistent tax application, and costly compliance gaps.
 
 <img width="1503" height="942" alt="image" src="https://github.com/user-attachments/assets/b9113dd8-9159-4c6d-89df-5557e4289461" />
+
 *Figure 1: Process Flow Current State*  
 
 
