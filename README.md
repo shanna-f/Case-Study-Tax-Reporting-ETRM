@@ -101,7 +101,8 @@ The next step was to translate strategy into tangible improvements.
 - Parallel rule updates without IT support  
 - Improved data quality, standardization, and traceability  
 
-*(Mention scope)*
+### 📦 Scope
+This scope focuses on building a robust, auditable, and automated tax reporting solution for a single jurisdiction, laying the foundation for future expansion and enhancements.
 
 <img width="1507" height="929" alt="image" src="https://github.com/user-attachments/assets/696a7be4-5159-4181-98c2-50a589c8189c" />
 
