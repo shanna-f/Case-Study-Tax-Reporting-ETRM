@@ -21,7 +21,7 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 
 ---
 
-## 📍 Part 1: Problem Statement & Current State Analysis
+## Part 1: Problem Statement & Current State Analysis
 
 For this case study (fictional, for portfolio purposes), I imagined working with a large oil & gas products trading company struggling with **indirect tax reporting** in their **Energy Trading and Risk Management (ETRM) system**.
 
@@ -50,7 +50,7 @@ This created major risks of delays, errors, inconsistent tax application, and co
 
 ---
 
-## 🎯 Part 2: Goals, Alignment & Success Measures  
+## Part 2: Goals, Alignment & Success Measures  
 
 With the problems clearly defined, I moved into setting goals, alignment, and success metrics. This step ensured the project had both operational and strategic value.
 
@@ -83,7 +83,7 @@ With the problems clearly defined, I moved into setting goals, alignment, and su
 
 ---
 
-## 💡 Part 3: Proposed Solution & Future State  
+## Part 3: Proposed Solution & Future State  
 
 The next step was to translate strategy into tangible improvements.
 
@@ -111,7 +111,7 @@ The next step was to translate strategy into tangible improvements.
 
 ---
 
-## 🤝 Part 4: Stakeholder Analysis  
+## Part 4: Stakeholder Analysis  
 
 No solution succeeds without engaged stakeholders. I created:
 - A Stakeholder Register
@@ -133,7 +133,7 @@ No solution succeeds without engaged stakeholders. I created:
 
 ---
 
-## 📊 Part 5: Risk, Cost-Benefit & Financial Analysis  
+## Part 5: Risk, Cost-Benefit & Financial Analysis  
 
 Then I built the business case by analyzing risks, costs, and benefits.
 
@@ -164,19 +164,19 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ---
 
-## 📊 Part 6: Governance, Implementation & Transition Planning  
+## Part 6: Governance, Implementation & Transition Planning  
 
 placeholder
 
 ---
 
-## 📊 Part 7: Recommendations & Executive Summary  
+## Part 7: Recommendations & Executive Summary  
 
 placeholder completion of business case
 
 ---
-## 📊 Part 8: Tools & Methods Used  
-## 🛠️ Part 8: Tools & Methods Used
+
+## Part 8: Tools & Methods Used  
 
 - **Documentation:** Word, Excel  
 - **Modeling:** Draw.io  
@@ -186,7 +186,7 @@ placeholder completion of business case
 
 ---
 
-## 📑 Part 9: Key Deliverables Created  
+## Part 9: Key Deliverables Created  
 - [Business Case (PDF)](your-link)  
 - [Process Flows (PDF)](your-link)
 - [Content Models (PDF)](your-link)  
@@ -195,7 +195,7 @@ placeholder completion of business case
 
 ---
 
-## ✅ Part 10: Outcomes  
+## Part 10: Outcomes  
 
 The project delivered:
 
@@ -208,7 +208,7 @@ The project delivered:
 
 ---
 
-## 📚 Part 11: Key Learnings & Reflection  
+## Part 11: Key Learnings & Reflection  
 
 - A well-defined problem statement sets the stage for meaningful requirements.  
 - Goals must be quantifiable and aligned to strategy.  
@@ -222,7 +222,7 @@ The project delivered:
 
 ---
 
-## 🔜 Part 12: Next Steps  
+## Part 12: Next Steps  
 Next, I will be looking at requirements and creating the Business Requirements Document.
 
 🔗 [Back to TOC](#-table-of-contents)  
