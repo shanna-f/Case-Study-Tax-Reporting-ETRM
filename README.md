@@ -175,7 +175,7 @@ placeholder
 placeholder completion of business case
 
 ---
-
+## 📊 Part 8: Tools & Methods Used  
 ## 🛠️ Part 8: Tools & Methods Used
 
 - **Documentation:** Word, Excel  
