@@ -45,6 +45,7 @@ This created major risks of delays, errors, inconsistent tax application, and co
 <img width="1503" height="942" alt="image" src="https://github.com/user-attachments/assets/b9113dd8-9159-4c6d-89df-5557e4289461" />
 *Figure 1: Process Flow Current State* 
 
+
 ✨ As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
 
 🔗 [Back to TOC](#-table-of-contents)  
