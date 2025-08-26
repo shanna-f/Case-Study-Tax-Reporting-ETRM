@@ -133,6 +133,8 @@ No solution succeeds without engaged stakeholders. I created:
 
 <img width="1712" height="1210" alt="image" src="https://github.com/user-attachments/assets/70f33205-c87f-449c-9e04-6e61b693ee12" />
 
+*Figure 3: RACI Matrix*  
+
 
 ✨ **Key Takeaway:** Not all stakeholders need the same level of detail. Tailoring communication avoided overload while ensuring buy-in.
 
