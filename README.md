@@ -87,7 +87,7 @@ With the problems clearly defined, I moved into setting goals, alignment, and su
 
 The next step was to translate strategy into tangible improvements.
 
-### 💥 Approach
+### 💥 My Approach
 - Explored different solution options  
 - Confirmed the recommended solution  
 - Built a high-level solution diagram  
@@ -118,7 +118,7 @@ No solution succeeds without engaged stakeholders. I created:
 - Influence vs. Interest Matrix
 - RACI Matrix for role clarity
 
-### Key Stakeholders
+### 🔑 Key Stakeholders
 - **High Influence / High Interest** → Tax Lead, Project Sponsor, Tax Architect  
 - **High Influence / Medium Interest** → IT/ETRM Owner  
 - **Medium Influence / High Interest** → Tax Analysts, Regulatory Affairs  
@@ -137,24 +137,24 @@ No solution succeeds without engaged stakeholders. I created:
 
 Then I built the business case by analyzing risks, costs, and benefits.
 
-📒 **Here’s what I worked on:**
+### 📒 My Approach
 - Identified risks & mitigation plans
 - Outlined tangible + intangible benefits
 - Estimated costs for implementation
 - Pulled it all together in a financial breakdown
 
-### Risks & Mitigations
+### 🚨 Risks & Mitigations
 - **Regulatory misalignment** → early SME and auditor involvement  
 - **Data integration issues** → phased rollout with validation checks  
 - **Over-reliance on few SMEs** → knowledge-sharing workshops  
 
-### Benefits (Tangible + Intangible)
+### ✅ Benefits (Tangible + Intangible)
 - Faster reporting turnaround (time savings)  
 - Reduced tax filing errors (compliance confidence)  
 - Improved scalability with a rules engine  
 - Greater audit readiness and transparency  
 
-### Financial Analysis
+### 💰 Financial Analysis
 - Estimated costs for implementation (ETRM customization, Tax Engine licensing, testing, change management)  
 - ROI justification through time saved, reduced rework, and audit efficiency  
 
