@@ -221,8 +221,13 @@ placeholder completion of business case
 
 ## Part 9: Key Deliverables Created  
 - [Business Case (PDF)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Business%20Case.pdf) 
-- [Process Flows (PDF)](your-link)
-- [Content Models (PDF)](your-link)  
+- [Process Flow Current State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Process%20Flow%20Current%20State.png)
+- [Process Flow Furture State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Process%20Flow%20Future%20State.png)
+- [Context Model Current State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Context%20Model%20Current%20State.png)
+- [Context Model Future State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Context%20Model%20Current%20State.png)
+- [Stakeholder Register (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Stakeholder%20Register.png)
+- [Stakeholder Map (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Stakeholder%20Map.png)
+- [RACI Matrix (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/RACI%20Matrix.png)  
 
 🔗 [Back to TOC](#-table-of-contents)  
 
