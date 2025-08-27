@@ -49,6 +49,8 @@ This created major risks of delays, errors, inconsistent tax application, and co
 
 ✨ As a BA, I recognized that defining the problem well is half the battle. The problem statement and current state analysis set the foundation for project goals, solution options, and requirements.
 
+
+[![LinkedIn](https://www.linkedin.com/posts/shanna-fillmore_problem-current-state-activity-7363191663600562178-a1fz?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY) 
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
