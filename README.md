@@ -266,7 +266,6 @@ By tying analysis to business value, this final deliverable positioned stakehold
 The project delivered:
 
 - A structured problem-to-solution path (current state → goals → solution → stakeholder alignment → business case)  
-- Clear and traceable requirements aligned with business and regulatory needs  
 - Future-state process flows and mockups for audit-ready reporting  
 - Strengthened compliance posture through audit traceability and automated reporting
 
