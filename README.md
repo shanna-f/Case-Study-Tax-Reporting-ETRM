@@ -206,19 +206,19 @@ Next, I defined plans to ensure clear decision-making, a structured rollout, and
 
 At this stage of the project, I consolidated all prior analysis (problem, goals, solution options, governance, and implementation planning) into **clear recommendations and an executive summary** for decision-makers. This step transformed the business case from detailed analysis into a concise, sponsor-ready pitch.  
 
-### 💡 My Contributions  
-- ✅ Recommended implementing an **external low-code tax rules engine** to reduce manual effort, strengthen audit readiness, and deliver a strong ROI.  
-- 🗓️ Outlined a **12-month phased rollout plan** balancing speed with risk management.  
-- 📝 Crafted the **Executive Summary**, distilling the complex analysis into a clear story for executives—highlighting pain points, proposed solution, benefits, and financial impact.  
+### ✅ Recommendations  
+- External low-code tax rules engine  
+- Cuts manual effort & audit risk  
+- ROI ~187–238% in 3 years  
+- 12-month phased rollout  
 
-### 📊 Key Outcomes Highlighted  
-- ⚙️ **90% process automation** and **50% fewer reporting errors**.  
-- 💵 **$1.5M–$1.9M projected net savings** over 3 years.  
-- 🔒 Improved compliance, audit readiness, and scalability for future global rollout.  
+### ✨ Executive Summary  
+- Current reporting is manual & error-prone  
+- Automates reporting & boosts compliance  
+- 90% automation, 50% fewer errors  
+- $1.5M–$1.9M net savings in 3 years   
 
 By tying analysis to business value, this final deliverable positioned stakeholders to make an informed decision with confidence.  
-
-
 
 ---
 
