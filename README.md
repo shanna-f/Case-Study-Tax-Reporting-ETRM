@@ -211,7 +211,7 @@ placeholder completion of business case
 
 ## Part 8: Tools & Methods Used  
 
-- **Documentation:** Word, Excel  
+- **Documentation:** Word
 - **Modeling:** Draw.io  
 - **Collaboration:** ChatGPT  
 
