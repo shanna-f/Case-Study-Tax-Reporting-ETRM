@@ -84,6 +84,8 @@ With the problems clearly defined, I moved into setting goals, alignment, and su
 
 ✨ Defining clear KPIs and alignment gave this project accountability and purpose.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_goals-alignment-success-measures-activity-7363537439707029504-SqtI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY) 
+
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
@@ -116,6 +118,8 @@ This scope focuses on building a robust, auditable, and automated tax reporting 
 
 ✨ This stage clarified where improvements happen and how success would be measured.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_proposed-solution-future-state-activity-7363924786994950145-_hPH?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY) 
+
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
@@ -139,6 +143,8 @@ No solution succeeds without engaged stakeholders. I created:
 
 
 ✨ **Key Takeaway:** Not all stakeholders need the same level of detail. Tailoring communication avoided overload while ensuring buy-in.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_stakeholder-analysis-activity-7364658393237647361-NoTh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY)
 
 🔗 [Back to TOC](#-table-of-contents)  
 
@@ -175,6 +181,8 @@ Then I built the business case by analyzing risks, costs, and benefits.
 
 ✨ **Key Insight:** The business case only became real when backed with numbers and trade-offs. Benefits weren’t just financial. Time savings, error reduction, and reduced compliance risk were equally valuable.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_risk-cost-benefit-financial-analysis-activity-7365720624641605632-XrTk?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY)
+
 🔗 [Back to TOC](#-table-of-contents)  
 
 ---
@@ -201,6 +209,10 @@ Next, I defined plans to ensure clear decision-making, a structured rollout, and
 *Figure 5: Implementation Plan*
 
 ✨ **Key Insight:** Governance, implementation, and transition planning together ensure accountability, sustainability, and a clear path forward for the project
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_governance-implementation-transition-planning-activity-7366444899904208896-d1G3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY)
+
+🔗 [Back to TOC](#-table-of-contents) 
 
 ---
 
