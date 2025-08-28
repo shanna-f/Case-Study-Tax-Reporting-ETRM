@@ -234,6 +234,10 @@ At this stage of the project, I consolidated all prior analysis (problem, goals,
 
 By tying analysis to business value, this final deliverable positioned stakeholders to make an informed decision with confidence.  
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_recommendations-executive-summary-activity-7366816265979510786-JWTP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY)
+
+🔗 [Back to TOC](#-table-of-contents) 
+
 ---
 
 ## Part 8: Tools & Methods Used  
