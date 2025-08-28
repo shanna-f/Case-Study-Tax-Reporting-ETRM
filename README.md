@@ -1,6 +1,6 @@
 # 💼 Business Analyst Case Study: Indirect Tax Reporting with ETRM  
 
-A **fictional case study project** (for portfolio purposes) where I worked on improving **indirect tax reporting** in an **Energy Trading and Risk Management (ETRM) system** for a large oil & gas trading company.  
+A **fictional case study project** (for portfolio purposes) where I worked on improving **indirect tax reporting** in an **Energy Trading and Risk Management (ETRM) system** for a large oil & gas trading company.   
 
 ---
 
