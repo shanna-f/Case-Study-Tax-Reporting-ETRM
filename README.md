@@ -6,7 +6,7 @@ A **fictional case study project** (for portfolio purposes) where I worked on im
 
 ## 📑 Table of Contents  
 
-1. [Problem Statement & Current State](#-part-1-problem-statement--current-state-analysis)  
+1. [Problem Statement & Current State](#-part-1--problem-statement--current-state-analysis)  
 2. [Goals & Success Measures](#-part-2-goals-alignment--success-measures)  
 3. [Proposed Solution](#-part-3-proposed-solution--future-state)  
 4. [Stakeholder Analysis](#-part-4-stakeholder-analysis)  
