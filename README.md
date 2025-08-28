@@ -253,7 +253,7 @@ By tying analysis to business value, this final deliverable positioned stakehold
 ## Part 9: Key Deliverables Created  
 - [Business Case (PDF)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Business%20Case%20ETRM.pdf) 
 - [Process Flow Current State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Process%20Flow%20Current%20State.png)
-- [Process Flow Furture State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Process%20Flow%20Future%20State.png)
+- [Process Flow Future State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Process%20Flow%20Future%20State.png)
 - [Context Model Current State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Context%20Model%20Current%20State.png)
 - [Context Model Future State (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/Context%20Model%20Future%20State.png)
 - [High Level Solution Diagram (PNG)](https://github.com/shanna-f/Case-Study-Tax-Reporting-ETRM/blob/main/High%20Level%20Solution%20Diagram.png)
