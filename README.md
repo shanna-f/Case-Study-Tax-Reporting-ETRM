@@ -270,7 +270,7 @@ By tying analysis to business value, this final deliverable positioned stakehold
 The project delivered:
 
 - A structured problem-to-solution path (current state → goals → solution → stakeholder alignment → business case)  
-- Future-state process flows and mockups for audit-ready reporting  
+- Future-state process flows and context models to visualize tax reporting improvements. 
 - Strengthened compliance posture through audit traceability and automated reporting
 
 🔗 [Back to TOC](#-table-of-contents)  
